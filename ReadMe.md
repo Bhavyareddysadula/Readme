@@ -49,6 +49,7 @@ The same method is followed for the other model like word2vec.
     Precision: 0.5010
     Recall: 0.2716
     F1-score: 0.3523
+    
 **RNN model output using word2vec using skipgram model with negative sampling**
     Epoch 1/10: 100%|█████████████████████████████████████████████████████████████████| 782/782 [00:34<00:00, 22.35batch/s]
     Training Loss: nan
@@ -79,7 +80,6 @@ The same method is followed for the other model like word2vec.
 **Graph representation for Fasttext-RNN model**
   Training loss over epochs:
   ![image](https://github.com/Bhavyareddysadula/Readme/assets/126856102/52c418e2-512f-4b3b-83c9-0b480e4c155e)
-
   Evaluation metrics:
   ![image](https://github.com/Bhavyareddysadula/Readme/assets/126856102/bfe5e6b2-ccbb-4ffa-ae49-04af388271f1)
 
